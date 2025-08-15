@@ -1,5 +1,4 @@
 # Hi, I'm Ritmic! 👋
-
 I'm learning software development.  
 
 ## 📂 Projects
