@@ -7,4 +7,4 @@ I'm learning software development.
 - [To Do List App](https://github.com/RitmicOfficial/to-do-list-app) - Simple and user-friendly To-Do List app for learning and daily tasks, available in Python & Web.
 ---
 
-✨ Thanks for visiting my profile!
+Thanks for visiting my profile!
